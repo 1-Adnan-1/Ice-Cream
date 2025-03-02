@@ -25,4 +25,4 @@ Ice Cream projesi, kullanıcıların dondurma seçeneklerini bir külahta ya da 
 # GİF
 
 ![Ekran.Gif](/public/ekran.gif)
-# Ice-Cream
+
